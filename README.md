@@ -1,7 +1,6 @@
 ## Project Description
 
-
-A clean and responsive slider project that showcases popular Marvel superheroes and anti-heroes.Each character is presented with an image, a logo, and a short background story. The slider is interactive and works smoothly across desktop and mobile devices. Built using  HTML, CSS, JavaScript, jQuery, and the LightSlider plugin.
+ A responsive and visually engaging slider that features some of Marvel's most iconic heroes and anti-heroes. Each slide includes a character image, logo, and a brief story that highlights their origin or significance. The project delivers a smooth, interactive experience across all devices using HTML, CSS, JavaScript, jQuery, and the LightSlider plugin.
 
 ---
 
