@@ -1,49 +1,47 @@
-#  Marvel Characters Slider
+# Marvel Characters Slider
 
-Welcome to the **Marvel Characters** slider! 🚀 This is a sleek and interactive character showcase that highlights some of the most iconic Marvel superheroes and anti-heroes in a smooth, responsive slider format.
+This project is a fully responsive web-based slider that showcases selected Marvel characters. It combines modern web technologies to create a visually appealing and interactive experience for users interested in Marvel heroes and their backstories. This project highlights some of the most iconic Marvel superheroes and anti-heroes in a smooth, responsive slider format.
 
-![image](https://github.com/user-attachments/assets/fa5dd5c9-413f-463f-94a8-39038f96031a)
+---
+
+## Preview
+
+![image](https://github.com/user-attachments/assets/38a317a5-8fa5-4085-bf21-c848b0bce53f)
 
 
 ---
 
-## 🦸‍♂️ Features
+## Project Description
 
-- ✨ Beautiful character cards with images and lore
-- 🎠 Fully responsive slider using **LightSlider**
-- 🎨 Animated hover effects and modern UI
-- 📱 Mobile-friendly layout
-- 💡 Clean, readable structure — great for beginners learning frontend
+The Marvel Characters Slider is built using HTML, CSS, and JavaScript, featuring a horizontally scrollable character showcase using the LightSlider jQuery plugin. Each character is presented with a high-quality image, a themed logo, and a brief description of their origin or background.
 
 ---
 
-## 📸 Demo Screenshot
+## Features
 
-<img src="screenshot.png" alt="Marvel Slider" width="700">
-
----
-
-## 🔧 Built With
-
-- `HTML`
-- `CSS`
-- `JavaScript` (with **jQuery** and **LightSlider**)
+- Responsive design for all screen sizes  
+- Interactive and smooth horizontal slider  
+- Hover-based visual animations  
+- Clean and consistent layout using Flexbox  
+- Character-focused design with Marvel-themed visuals
 
 ---
 
-## 💬 Characters Included
+## Technologies Used
 
-- Ant-Man 🐜  
-- Deadpool 🔫  
-- Spider-Man 🕸️  
-- Venom 👾  
-- Thor ⚡  
-- Iron Man 💼  
+- HTML5  
+- CSS3 (with media queries and animations)  
+- JavaScript (ES5)  
+- jQuery (CDN)  
+- LightSlider Plugin (CDN)
 
 ---
 
-## 🚀 How to Run
+---
+
+## How to Run Locally
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/tamarkilasonia/MarvelCharacters.git
+
