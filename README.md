@@ -1,7 +1,7 @@
 # Marvel Characters Slider
 
-This project is a fully responsive web-based slider that showcases selected Marvel characters. It combines modern web technologies to create a visually appealing and interactive experience for users interested in Marvel heroes and their backstories. This project highlights some of the most iconic Marvel superheroes and anti-heroes in a smooth, responsive slider format.
-
+This project is a fully responsive web-based slider that showcases some of the most iconic Marvel superheroes and anti-heroes in a smooth, responsive slider format.
+. It combines modern web technologies to create a visually appealing and interactive experience for users interested in Marvel heroes and their backstories. 
 ---
 
 ## Preview
