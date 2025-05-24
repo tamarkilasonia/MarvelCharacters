@@ -1,4 +1,5 @@
-## Marvel Characters Slider
+## Project Description
+
 
 A clean and responsive slider project that showcases popular Marvel superheroes and anti-heroes.Each character is presented with an image, a logo, and a short background story. The slider is interactive and works smoothly across desktop and mobile devices. Built using  HTML, CSS, JavaScript, jQuery, and the LightSlider plugin.
 
@@ -11,9 +12,7 @@ A clean and responsive slider project that showcases popular Marvel superheroes 
 
 ---
 
-## Project Description
-
-The Marvel Characters Slider is built using HTML, CSS, and JavaScript, featuring a horizontally scrollable character showcase using the LightSlider jQuery plugin. Each character is presented with a high-quality image, a themed logo, and a brief description of their origin or background.
+.
 
 ---
 
