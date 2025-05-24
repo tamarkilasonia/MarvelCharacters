@@ -24,7 +24,7 @@
 
 - HTML
 - CSS (with media queries and animations)  
-- JavaScript (ES5)  
+- JavaScript  
 - jQuery (CDN)  
 - LightSlider Plugin (CDN)
 
