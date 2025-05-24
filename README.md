@@ -22,7 +22,7 @@
 
 ## Technologies Used
 
-- HTML5  
+- HTML
 - CSS3 (with media queries and animations)  
 - JavaScript (ES5)  
 - jQuery (CDN)  
