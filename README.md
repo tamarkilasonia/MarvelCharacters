@@ -11,12 +11,6 @@ A clean and responsive slider project that showcases popular Marvel superheroes 
 
 ![image](https://github.com/user-attachments/assets/74639caa-1a3f-4fc0-bddc-cd8d7000fba6)
 
----
-
-.
-
----
-
 ## Features
 
 - Responsive design for all screen sizes  
