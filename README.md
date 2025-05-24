@@ -23,7 +23,7 @@
 ## Technologies Used
 
 - HTML
-- CSS3 (with media queries and animations)  
+- CSS (with media queries and animations)  
 - JavaScript (ES5)  
 - jQuery (CDN)  
 - LightSlider Plugin (CDN)
